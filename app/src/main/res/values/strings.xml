@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Second_Assignment</string>
+    <array name="Array">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </array>
+    <string name="title_activity_second">second</string>
+</resources>
